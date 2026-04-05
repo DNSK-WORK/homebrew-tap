@@ -1,6 +1,6 @@
 cask "claude-usage-tool" do
-  version "0.15.1"
-  sha256 "01f3e24055589c5a789efd4a7641b7885ea7eae134eee87780526a3915a2c3a5"
+  version "0.15.2"
+  sha256 "1ede25bfab76d171fb082c30a3566180c8adb9af5f622b7d8f56ac60a38a6fb8"
 
   url "https://github.com/DNSK-WORK/claude-usage-tool/releases/download/v#{version}/Claude-Usage-Tool-#{version}-arm64.dmg"
   name "Claude Usage Tool"
